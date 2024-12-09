@@ -194,7 +194,7 @@ public class signup2 extends javax.swing.JFrame {
 
         signup.setBackground(new java.awt.Color(51, 51, 51));
         signup.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/enter.png"))); // NOI18N
-        signup.setText("sign up");
+        signup.setText("sign up1");
         signup.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 signupActionPerformed(evt);
